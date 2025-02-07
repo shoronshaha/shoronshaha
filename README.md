@@ -19,6 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shoronshaha&icon=0&color=13)](https://visitcount.itsvg.in)
 
-![Snake animation](https://raw.githubusercontent.com/shoronshaha/shoronshaha/output/github-contribution-grid-snake-dark.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
